@@ -1,4 +1,4 @@
-Accidents are an unfortunate fact of air travel. Although flying is statistically safer than driving, minor and major flying accidents occur daily. In this project, worked with a data set of airplane accident statistics to analyze patterns and look for any common threads.
+Accidents are an unfortunate fact of air travel. Although flying is statistically safer than driving, minor and major flying accidents occur daily. Worked with a data set of airplane accident statistics in this project, to analyze patterns and looked for possible common threads.
 
 Data dictionary
 
